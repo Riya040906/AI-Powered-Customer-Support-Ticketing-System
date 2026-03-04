@@ -6,7 +6,7 @@ Salesforce Administrator Using AI Agentforce
 
 Members:
 
-Riya Kosandar (L)
-Shail Kamtikar
-Shreya Tijale
-Shraddha Jagtap
+1. Riya Kosandar (L)
+2. Shail Kamtikar
+3. Shreya Tijale
+4. Shraddha Jagtap
