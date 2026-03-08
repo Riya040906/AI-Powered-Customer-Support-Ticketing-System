@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Allows custom permissions for Agentforce Agent : CST_System&apos;s agent user : cst_system@00ddl00000qbxgf1449255659.ext.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>CST_System1523504288 Permissions</label>
+    <license>Einstein Agent</license>
+</PermissionSet>
